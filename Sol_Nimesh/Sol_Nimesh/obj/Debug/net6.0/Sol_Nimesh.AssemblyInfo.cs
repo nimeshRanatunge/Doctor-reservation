@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sol_Nimesh")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dd2b53a1ce16b8740353d5b1682fbaf5ab91449")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sol_Nimesh")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sol_Nimesh")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

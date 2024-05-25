@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Pro_Doc\\Sol_Nimesh\\Sol_Nimesh\\Sol_Nimesh.csproj": {}
+    "A:\\Doctor_reservation_system\\Sol_Nimesh\\Sol_Nimesh\\Sol_Nimesh.csproj": {}
   },
   "projects": {
-    "A:\\Pro_Doc\\Sol_Nimesh\\Sol_Nimesh\\Sol_Nimesh.csproj": {
+    "A:\\Doctor_reservation_system\\Sol_Nimesh\\Sol_Nimesh\\Sol_Nimesh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Pro_Doc\\Sol_Nimesh\\Sol_Nimesh\\Sol_Nimesh.csproj",
+        "projectUniqueName": "A:\\Doctor_reservation_system\\Sol_Nimesh\\Sol_Nimesh\\Sol_Nimesh.csproj",
         "projectName": "Sol_Nimesh",
-        "projectPath": "A:\\Pro_Doc\\Sol_Nimesh\\Sol_Nimesh\\Sol_Nimesh.csproj",
+        "projectPath": "A:\\Doctor_reservation_system\\Sol_Nimesh\\Sol_Nimesh\\Sol_Nimesh.csproj",
         "packagesPath": "C:\\Users\\nimes\\.nuget\\packages\\",
-        "outputPath": "A:\\Pro_Doc\\Sol_Nimesh\\Sol_Nimesh\\obj\\",
+        "outputPath": "A:\\Doctor_reservation_system\\Sol_Nimesh\\Sol_Nimesh\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nimes\\AppData\\Roaming\\NuGet\\NuGet.Config",
