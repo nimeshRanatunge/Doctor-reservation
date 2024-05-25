@@ -1,0 +1,15 @@
+h2{
+  background-color: #333;
+  color: white;
+  padding: 10px 40px;
+  border-radius: 15px;
+}
+
+.AppointmentTab{
+  background-color: rgb(220, 220, 220);
+  width: 1000px;
+  margin-left: 450px;
+  padding: 10px;
+  border-radius: 20px;
+}
+

@@ -1,0 +1,17 @@
+.centered-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 76.4vh; 
+    background-image: url('../../assets/Sethma.jpg');
+    background-size: cover;
+  }
+  
+  .button {
+    margin-top: 20px; 
+    width: 400px;
+    height: 70px;
+    font-size: 20px;
+  }
+  
