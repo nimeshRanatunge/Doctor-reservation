@@ -10,4 +10,5 @@ npm install
 5. In Package manager console (Tools-> Nuget Package Manager->) run following commands -
 
    Add-Migration InitialCreate
+   
    Update-Database
