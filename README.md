@@ -8,5 +8,6 @@ npm install
 3. Using Visual Studio, open the project Sol_Nimesh.sln
 4. Change the connection string in the appsettings.json
 5. In Package manager console (Tools-> Nuget Package Manager->) run following commands -
+
    Add-Migration InitialCreate
    Update-Database
